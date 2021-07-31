@@ -1,5 +1,3 @@
-### 👋 Assalamualikum, I'm Aslam 
-
 <!--
 **AslamPangestu/aslampangestu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,11 +19,23 @@ Tools:
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
-- 🔭 I’m currently working at [Tetamba Studio](https://tetambastudio.com/) as Software Enginer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: don't publish your app if you want to have project free of bugs
+<h2 align="center">👋 Assalamualikum, I'm Aslam</h2>
+
+- 🏠 I'm currently lives in Depok, Indonesia
+- 🔭 I’m currently working @ [Tetamba Studio](https://tetambastudio.com/) as Software Enginer
+- 💻 The technology I'm using:
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat-square&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat-square&logo=express&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat-square&logo=vuedotjs&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=6aa6f8)
+- 📫 You can reach me at:
+
+[![Linkedin: AslamPangestu](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/aslampangestu03/)
