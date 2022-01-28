@@ -39,4 +39,6 @@ Tools:
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=6aa6f8)
 - 📫 You can reach me at:
 
+<object>
 ![Linkedin: AslamPangestu](https://img.shields.io/badge/-AslamPangestu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aslampangestu03/)
+</object>
