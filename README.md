@@ -40,6 +40,5 @@ Tools:
 - 📫 You can reach me at:
 
 <a href="https://www.linkedin.com/in/aslampangestu03/">
-  <img src="https://img.shields.io/badge/-AslamPangestu-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/-AslamPangestu-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
 </a>
-![](https://img.shields.io/badge/-AslamPangestu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aslampangestu03/)
