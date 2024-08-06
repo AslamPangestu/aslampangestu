@@ -23,12 +23,11 @@ Tools:
 <h2 align="center">👋 Assalamualikum, I'm Aslam</h2>
 
 - 🏠 I'm currently lives in Depok, Indonesia
-- 🔭 I’m currently working @ [Tetamba Studio](https://tetambastudio.com/) as Software Enginer
+- 🔭 I’m currently working @ [Onstock](https://onstock.id/) as Frontend Enginer
 - 💻 The technology I'm using:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat-square&logo=go&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat-square&logo=express&logoColor=white&color=6aa6f8)
