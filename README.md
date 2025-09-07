@@ -23,7 +23,7 @@ Tools:
 <h2 align="center">👋 Assalamualikum, I'm Aslam</h2>
 
 - 🏠 I'm currently lives in Depok, Indonesia
-- 🔭 I’m currently working [@Onstock](https://onstock.id/) as Frontend Enginer
+- 🔭 I’m currently working [@Liven](https://liven.love/) as Frontend Enginer
 - 💻 The technology I'm using:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=6aa6f8)
